@@ -8,11 +8,11 @@
 
 기술 스택:
 
-하드웨어: Arduino Uno (또는 호환 보드), LED 2개, 220~330Ω 저항 2개, 점퍼선, 브레드보드(선택)
+-하드웨어: Arduino Uno (또는 호환 보드), LED 2개, 220~330Ω 저항 2개, 점퍼선, 브레드보드(선택)
 
-펌웨어: StandardFirmataPlus (아두이노 보드에 업로드)
+-펌웨어: StandardFirmataPlus (아두이노 보드에 업로드)
 
-소프트웨어: Python 3.x, PyFirmata2 라이브러리
+-소프트웨어: Python 3.x, PyFirmata2 라이브러리
 
 ⚡ 시작하기
 1. 하드웨어 설정
@@ -60,3 +60,4 @@ led_control.py (제공된 코드) 파일을 생성하고 내용을 붙여넣습�
 터미널 또는 명령 프롬프트에서 다음 명령어를 실행합니다.
 
 python led_control.py
+
